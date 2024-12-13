@@ -1,5 +1,6 @@
 import "./App.css";
 //import DaisyNav from "./components/DaisyNav/DaisyNav";
+import Navbar from './components/NavBar/NavBar';
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
 
    {/* <DaisyNav></DaisyNav>*/}
 
-     
+     <Navbar></Navbar>
 
       <div className="stats shadow">
   <div className="stat">
