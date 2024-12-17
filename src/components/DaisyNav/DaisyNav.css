@@ -1,0 +1,9 @@
+/* src/components/DaisyNav/DaisyNav.css */
+.menu-item {
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .menu-item:hover {
+    background-color: #f0f0f0;
+  }
